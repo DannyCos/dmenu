@@ -712,6 +712,7 @@ static void
 setup(void)
 {
 	int x, y, i, j;
+	i = 0;
 	unsigned int du;
 	XSetWindowAttributes swa;
 	XIM xim;
